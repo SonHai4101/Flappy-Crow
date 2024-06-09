@@ -1,0 +1,285 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1717682396461985, "dur":17698, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717682396479695, "dur":136, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717682396479876, "dur":338, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717682396480357, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1717682396480446, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1717682396480800, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":0, "ts":1717682396481325, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1717682396481512, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1717682396481805, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1717682396482027, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1717682396482432, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1717682396482666, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1717682396483051, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1717682396483985, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1717682396484107, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":0, "ts":1717682396484257, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1717682396484447, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1717682396485294, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1717682396480238, "dur":5656, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717682396485896, "dur":4807394, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717682401293292, "dur":109, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717682401293402, "dur":60, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717682401293563, "dur":2592, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1717682396481213, "dur":4820, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1717682396486033, "dur":225, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1717682396486258, "dur":1224, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1717682396487723, "dur":74, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396487798, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396487857, "dur":373, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396488232, "dur":522, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396488755, "dur":106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396488861, "dur":74, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396488936, "dur":315, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396489252, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396489303, "dur":65, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396489368, "dur":216, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396489585, "dur":128, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396489713, "dur":280, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396489994, "dur":106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396490149, "dur":642, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396490792, "dur":292, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396491085, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396491156, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\PackageCache\\com.unity.collections@1.2.4\\Unity.Collections.LowLevel.ILSupport\\Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396491212, "dur":105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396491318, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\PackageCache\\com.unity.burst@1.8.13\\Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682396491454, "dur":233208, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Game Projects\\Flappy Crow\\Library\\PackageCache\\com.unity.burst@1.8.13\\.Runtime\\bcl.exe" }}
+,{ "pid":12345, "tid":1, "ts":1717682396487486, "dur":237180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":1, "ts":1717682396724676, "dur":242, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1717682396726711, "dur":4564070, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":1, "ts":1717682401291708, "dur":440, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\AsyncPluginsFromLinker\\x86_64\\lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682401291707, "dur":443, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717682401292622, "dur":602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396481032, "dur":4952, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717682396485989, "dur":228, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717682396486217, "dur":134, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717682396486352, "dur":1166, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717682396488511, "dur":2667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1717682396493580, "dur":4584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1717682396498174, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1717682396501793, "dur":1694, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717682396499138, "dur":4371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1717682396504202, "dur":680, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1717682396505046, "dur":2114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1717682396507328, "dur":14086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1717682396521455, "dur":4721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396526207, "dur":6653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396532892, "dur":4013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396537513, "dur":6367, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717682396536959, "dur":6954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396547442, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717682396543945, "dur":3611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396547598, "dur":1918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396549681, "dur":2125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396551830, "dur":9549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396561415, "dur":12013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396573526, "dur":12472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396586064, "dur":7469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396593584, "dur":4270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396597954, "dur":2756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396600735, "dur":14543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396615378, "dur":2949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396618367, "dur":4612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396625233, "dur":130, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717682396623001, "dur":2378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396625505, "dur":906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396629112, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717682396626452, "dur":2750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396629403, "dur":3976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396633421, "dur":18455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396651961, "dur":1425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396653420, "dur":6265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396659829, "dur":24882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396684856, "dur":3639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396688532, "dur":56, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717682396688629, "dur":5526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396694184, "dur":76, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717682396694285, "dur":887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717682396695208, "dur":35200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1717682396730452, "dur":560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1717682396731042, "dur":2408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1717682396849611, "dur":214, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717682396733481, "dur":116373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1717682396849962, "dur":4443306, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717682396480991, "dur":4958, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717682396485953, "dur":257, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717682396486211, "dur":158, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717682396486369, "dur":1130, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717682396487994, "dur":9927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1717682396499245, "dur":2095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1717682396502212, "dur":1618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1717682396503908, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1717682396504046, "dur":1802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1717682396506076, "dur":3101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396509637, "dur":15923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396537502, "dur":5712, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717682396525613, "dur":17625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396543264, "dur":3757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396547061, "dur":1070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396548160, "dur":13766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396561968, "dur":11159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396573194, "dur":12610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396585981, "dur":59, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717682396586043, "dur":7646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396593711, "dur":3929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396597841, "dur":2742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396600695, "dur":4609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396605398, "dur":9109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396614568, "dur":9562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396624171, "dur":2308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396626509, "dur":3432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396629983, "dur":3221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396633228, "dur":2885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396636172, "dur":11255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396647499, "dur":1086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396652142, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717682396648615, "dur":3587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396652257, "dur":1689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396653972, "dur":5709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396659705, "dur":13836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396673566, "dur":79, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717682396673649, "dur":7130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396681126, "dur":13684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717682396694830, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":3, "ts":1717682396695324, "dur":35222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":3, "ts":1717682396730570, "dur":2412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1717682396733073, "dur":12286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1717682396745414, "dur":16123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1717682396761590, "dur":4531698, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717682396480882, "dur":5058, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717682396485943, "dur":241, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717682396486185, "dur":167, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717682396486352, "dur":1128, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717682396487932, "dur":327, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1717682396488801, "dur":1787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1717682396490652, "dur":3129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1717682396493865, "dur":3429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1717682396497696, "dur":1863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1717682396499644, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1717682396502141, "dur":1898, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717682396500167, "dur":3988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1717682396504175, "dur":704, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1717682396504911, "dur":1579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1717682396506754, "dur":28612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396537305, "dur":5724, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717682396535936, "dur":7216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396543193, "dur":4867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396548134, "dur":1376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396549547, "dur":688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396550257, "dur":1107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396560720, "dur":114, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717682396551522, "dur":9322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396560871, "dur":8501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396569388, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396569457, "dur":3128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396572618, "dur":4637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396577300, "dur":8880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396586218, "dur":8957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396595203, "dur":5641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396600912, "dur":17418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396618368, "dur":4459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396622873, "dur":3571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396626469, "dur":6509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396633009, "dur":3236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396636276, "dur":419, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717682396636700, "dur":11478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396648459, "dur":4936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396659298, "dur":90, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717682396653422, "dur":5989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396659455, "dur":35650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717682396695335, "dur":38389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1717682396760941, "dur":183, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717682396733747, "dur":27461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1717682396761311, "dur":4531978, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717682396480785, "dur":5146, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717682396485935, "dur":1541, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717682396488475, "dur":299, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":5, "ts":1717682396488777, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1717682396488849, "dur":7259, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1717682396496110, "dur":105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1717682396496413, "dur":76, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player431e5abd-inputdata.json" }}
+,{ "pid":12345, "tid":5, "ts":1717682396488776, "dur":7799, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1717682396496816, "dur":58, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717682396844723, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717682396497136, "dur":347699, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1717682396850539, "dur":224, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1717682396850537, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1717682396858241, "dur":119, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717682396850816, "dur":7576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1717682396858397, "dur":4434876, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396481168, "dur":4828, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396486000, "dur":218, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396486218, "dur":1299, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396487527, "dur":244, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Editor\\2022.3.30f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1717682396487518, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1717682396488548, "dur":2190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1717682396495685, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396490998, "dur":4787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1717682396495807, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1717682396495889, "dur":81, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396495977, "dur":2271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1717682396500795, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396499113, "dur":1787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1717682396502132, "dur":1765, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396501198, "dur":2736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1717682396503972, "dur":897, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Editor\\2022.3.30f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1717682396503971, "dur":900, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1717682396504901, "dur":2242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1717682396507185, "dur":3422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow.exe" }}
+,{ "pid":12345, "tid":6, "ts":1717682396513920, "dur":142, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396510665, "dur":3425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396514138, "dur":15396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396529572, "dur":3283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396532893, "dur":3258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396536199, "dur":932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396537196, "dur":5813, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396543018, "dur":1290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396547421, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396544330, "dur":3167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396547543, "dur":10714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396558432, "dur":2197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396561200, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396560661, "dur":616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396569603, "dur":70, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396561350, "dur":8332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396576306, "dur":89, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396569709, "dur":6705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396576481, "dur":9360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396585872, "dur":7664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396593566, "dur":1601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396595200, "dur":2578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396597851, "dur":2902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396600825, "dur":2360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396609005, "dur":239, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396603218, "dur":6039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396611725, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396609337, "dur":2489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396611887, "dur":3707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396615621, "dur":2736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396618386, "dur":3703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396622127, "dur":864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396623018, "dur":1154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396624198, "dur":2073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396628847, "dur":239, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396626308, "dur":2821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396629226, "dur":867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396630192, "dur":2849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396633067, "dur":3172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396636278, "dur":434, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396636723, "dur":10820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396647568, "dur":754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396648355, "dur":3832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396652249, "dur":1300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396653594, "dur":6016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396672991, "dur":231, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396659634, "dur":13637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396694116, "dur":90, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396673365, "dur":20896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/Flappy Crow_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396694304, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Editor\\2022.3.30f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396694302, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Game Projects Folder/Fapply Crow/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396694374, "dur":85, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717682396694462, "dur":154908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Game Projects Folder/Fapply Crow/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717682396849792, "dur":4443477, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717682401302196, "dur":1072, "ph":"X", "name": "ProfilerWriteOutput" }
+,
